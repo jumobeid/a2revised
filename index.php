@@ -27,7 +27,7 @@ require('formLogic.php');
 
 
     <p> Includes sandwich,snack,and drink.</p>
-    <form action="formDemo.php" method="POST">
+    <form action="index.php" method="POST">
 
       <fieldset>
         <legend>Order Information</legend>
