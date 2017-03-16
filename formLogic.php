@@ -1,3 +1,4 @@
+
 <?php
 require('Tools.php');
 require('Form.php');
@@ -156,3 +157,4 @@ if($form->isSubmitted()) {
   $sTotal=  array_sum($price->items);
 
   }
+}#test what kind of error will I see
